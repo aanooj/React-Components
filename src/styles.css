@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.component {
+  border: 1px solid grey;
+  margin: 10px;
+}
